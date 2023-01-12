@@ -5,4 +5,7 @@ Components de l'equip:
  - Alexandre Fló Cuesta
 
 Arxius:
-Tenim el RMarkdown del projecte, l'HTML del projecte i un PDF del treball.
+Tenim els següents arxius:
+ - RMarkdown del projecte
+ - HTML del projecte 
+ - PDF del treball.
